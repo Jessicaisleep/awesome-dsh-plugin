@@ -1,0 +1,6 @@
+url: https://github.com/Jessicaisleep/dsh-wm-toolkit
+name: Jessicaisleep/dsh-wm-toolkit
+category: session
+description:
+  en: 'Session and message surgery in one plugin: recall or edit prompts and replies (reasoning included), regenerate from the original prompt, delete any turn at the model-context level, and archive, delete, move or migrate sessions across workspaces. Targets DSH 0.1.5 and 0.2.x, verified on 0.2.1-rc.3.'
+  zh: '一个插件做会话与消息手术：撤回或编辑指令/回复（连思考过程一起改）、用原提问重新生成、按模型上下文级删除任意一条，以及会话归档、删除、跨工作区移动与工作区迁移。面向 DSH 0.1.5 / 0.2.x，已在 0.2.1-rc.3 实测。'
